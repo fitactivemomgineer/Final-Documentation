@@ -1,7 +1,7 @@
 # Final Documentation
 This is the Final Documentation for my website 
 
-Project name: Presto 
+<h2><b> Presto </h> </b>
 
 <b> Description:</b> Presto is an application that is made for inventory management. A more intuitive (and less maddening) way for businesses & people to keep track of their assets.  Our intuitive interface means you'll be up and running in minutes, using features geared specifically to your asset management needs. We support team collaboration around asset reservations, maintenance, checkouts, and audits, with Barcode and QR Code scans via our mobile app. We also support RFID tag scans on external scanners. We're the complete asset tracking system - from procurement to retirement.
 
